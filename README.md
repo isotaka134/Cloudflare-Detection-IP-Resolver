@@ -1,5 +1,3 @@
-# Cloudflare Detection & IP Resolver
-
 ## Overview
 This auxiliary module scans a list of domains, resolves their IP addresses, and detects whether Cloudflare protects them.
 
