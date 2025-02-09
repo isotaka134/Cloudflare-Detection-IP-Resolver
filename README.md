@@ -1,7 +1,7 @@
 # Cloudflare Detection & IP Resolver
 
 ## Overview
-This Metasploit auxiliary module scans a list of domains, resolves their IP addresses, and detects whether Cloudflare protects them.
+This auxiliary module scans a list of domains, resolves their IP addresses, and detects whether Cloudflare protects them.
 
 ## Features
 - Reads a list of domains from a file
